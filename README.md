@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FraustoB, a 25 year old Web Developer 
+- 👋 Hi, I’m @FraustoB, a 26 year old Web Developer 
 - 👀 I’m interested in Bodybuilding, Rock climbing, esports, along with creating React Apps
 - 🌱 I’m currently learning Next.js to hopefully help with bigger projects I want to make in the future
 - 💞️ I’m looking to collaborate on anything! Please be patient with me though
